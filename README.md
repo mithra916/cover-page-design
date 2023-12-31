@@ -12,7 +12,6 @@ Write your own steps here.
 HTML
 ```
 {% load static %}
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -43,7 +42,6 @@ body{
     font-family: Helvetica, sans-serif;
     background-color: #333
 }
-
 .book{
     width: 726px;
     height:891px;
@@ -98,8 +96,6 @@ footer{
   }
 ```
 ## Output:
-
 ![image](https://github.com/mithra916/cover-page-design/assets/149986612/a243efea-617b-4a02-80cf-cc1a2da286aa)
-
 ## Result:
 Thus the program to develop a website to display the cover page design of a book is done.
