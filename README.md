@@ -1,16 +1,13 @@
 # cover-page-design
 ## AIM:
 To develop a website to display the cover page design of a book
-
 ## Design Steps:
-
 ### Step 1:
 Write your own steps here.
 ### Step 2:
-
+and run
 ## Code:
-HTML
-```
+HTML:
 {% load static %}
 <!DOCTYPE html>
 <html lang="en">
@@ -34,9 +31,7 @@ HTML
     </section>
     </body>
 </html>
-```
-CSS
-```
+CSS:
 body{
     color:rgb(255, 255, 255);
     font-family: Helvetica, sans-serif;
@@ -94,7 +89,6 @@ footer{
   #end{
     padding-right:60px;
   }
-```
 ## Output:
 ![image](https://github.com/mithra916/cover-page-design/assets/149986612/a243efea-617b-4a02-80cf-cc1a2da286aa)
 ## Result:
